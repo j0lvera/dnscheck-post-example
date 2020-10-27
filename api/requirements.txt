@@ -7,7 +7,7 @@ bottle==0.12.17
 certifi==2019.9.11
 cffi==1.12.3
 Click==7.0
-cryptography==2.7
+cryptography==3.2
 Django==2.1.7
 dnspython==1.16.0
 importlib-metadata==0.22
